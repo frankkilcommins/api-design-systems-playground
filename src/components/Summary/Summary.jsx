@@ -2,7 +2,7 @@ import '../../styles.css'
 
 
 export const Summary = (props) => {
-    console.log(props);
+
     return (<>
             
             <section className='block col-12'>

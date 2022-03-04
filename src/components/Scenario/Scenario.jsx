@@ -1,8 +1,6 @@
 import '../../styles.css'
 
 export const Scenario = (props) => {
-    console.log(props.when);
-
 
     return (<>
         <div id='{props.key}' className='modal-container' data-name='{props.key}'>
